@@ -9,7 +9,7 @@ An interactive dashboard was developed to provide business insights into custome
 
 ## Dashboard Preview
 
-![Telecom Customer Churn Dashboard](images/telecom_churn_dashboard.png)
+![Telecom Customer Churn Dashboard](churn_telecom.PNG)
 
 ## Key Performance Indicators (KPIs)
 
